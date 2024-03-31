@@ -1,0 +1,34 @@
+﻿// See https://aka.ms/new-console-template for more information
+
+using System;
+using System.Reflection;
+using System.Text.Json;
+using System.IO;
+using TPMOD07;
+using System.Text.Json.Serialization;
+
+
+class Program
+{
+    static void Main(string[] args)
+    {
+
+
+        // read json file
+
+        string json = File.ReadAllText("C:\\Users\\USER\\Documents\\Kuliah\\Semester 4\\KPL\\Praktikum\\TPMOD07\\TPMOD07\\TPMOD07\\tp7_1_1302220065.json");
+
+        var options = new JsonSerializerOptions
+        {
+            IncludeFields = true
+        };
+        DataMahasiswa_1302220065 data = JsonSerializer.Deserialize<DataMahasiswa_1302220065>(json, options);
+        data.details();
+        //File.WriteAllText("C:\\Users\\USER\\Documents\\Kuliah\\Semester 4\\KPL\\Praktikum\\TPMOD07\\TPMOD07\\TPMOD07\\tp7_1_1302220065.json",);
+
+
+
+
+    }
+}
+
