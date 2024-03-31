@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\kelompok_prakktikum\Minggu-7-kelompok-1\Minggu_7_kelompok_1\Minggu_7_kelompok_1\bin\Debug\net8.0\Minggu_7_kelompok_1.exe
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\kelompok_prakktikum\Minggu-7-kelompok-1\Minggu_7_kelompok_1\Minggu_7_kelompok_1\bin\Debug\net8.0\Minggu_7_kelompok_1.deps.json
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\kelompok_prakktikum\Minggu-7-kelompok-1\Minggu_7_kelompok_1\Minggu_7_kelompok_1\bin\Debug\net8.0\Minggu_7_kelompok_1.runtimeconfig.json
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\kelompok_prakktikum\Minggu-7-kelompok-1\Minggu_7_kelompok_1\Minggu_7_kelompok_1\bin\Debug\net8.0\Minggu_7_kelompok_1.dll
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\kelompok_prakktikum\Minggu-7-kelompok-1\Minggu_7_kelompok_1\Minggu_7_kelompok_1\bin\Debug\net8.0\Minggu_7_kelompok_1.pdb
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\kelompok_prakktikum\Minggu-7-kelompok-1\Minggu_7_kelompok_1\Minggu_7_kelompok_1\obj\Debug\net8.0\Minggu_7_kelompok_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\kelompok_prakktikum\Minggu-7-kelompok-1\Minggu_7_kelompok_1\Minggu_7_kelompok_1\obj\Debug\net8.0\Minggu_7_kelompok_1.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\kelompok_prakktikum\Minggu-7-kelompok-1\Minggu_7_kelompok_1\Minggu_7_kelompok_1\obj\Debug\net8.0\Minggu_7_kelompok_1.AssemblyInfo.cs
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\kelompok_prakktikum\Minggu-7-kelompok-1\Minggu_7_kelompok_1\Minggu_7_kelompok_1\obj\Debug\net8.0\Minggu_7_kelompok_1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\kelompok_prakktikum\Minggu-7-kelompok-1\Minggu_7_kelompok_1\Minggu_7_kelompok_1\obj\Debug\net8.0\Minggu_7_kelompok_1.sourcelink.json
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\kelompok_prakktikum\Minggu-7-kelompok-1\Minggu_7_kelompok_1\Minggu_7_kelompok_1\obj\Debug\net8.0\Minggu_7_kelompok_1.dll
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\kelompok_prakktikum\Minggu-7-kelompok-1\Minggu_7_kelompok_1\Minggu_7_kelompok_1\obj\Debug\net8.0\refint\Minggu_7_kelompok_1.dll
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\kelompok_prakktikum\Minggu-7-kelompok-1\Minggu_7_kelompok_1\Minggu_7_kelompok_1\obj\Debug\net8.0\Minggu_7_kelompok_1.pdb
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\kelompok_prakktikum\Minggu-7-kelompok-1\Minggu_7_kelompok_1\Minggu_7_kelompok_1\obj\Debug\net8.0\Minggu_7_kelompok_1.genruntimeconfig.cache
+C:\Users\USER\Documents\Kuliah\Semester 4\KPL\kelompok_prakktikum\Minggu-7-kelompok-1\Minggu_7_kelompok_1\Minggu_7_kelompok_1\obj\Debug\net8.0\ref\Minggu_7_kelompok_1.dll
